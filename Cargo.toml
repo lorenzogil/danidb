@@ -1,0 +1,6 @@
+[package]
+name = "danidb"
+version = "0.1.0"
+authors = ["Lorenzo Gil Sanchez <lorenzo.gil.sanchez@gmail.com>"]
+
+[dependencies]
